@@ -7,7 +7,7 @@ In the example I displayed data in the RecyclerView.
 Decide yourself which venue details you want to display to user.
 
 
-##Libraries Used
+## Libraries
     //ForRestful Request
     implementation "com.squareup.retrofit2:retrofit:2.9.0"
     implementation "com.squareup.retrofit2:converter-moshi:2.9.0"
